@@ -1,4 +1,4 @@
-public class GitAutomationCode {
+public class GitUtils {
     public static void main(String []args){
 
         // THis file will create a conflict later.
